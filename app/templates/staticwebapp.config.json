@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/sunkale",
+      "serve": "/sunkale.html"
+    }
+  ]
+}
